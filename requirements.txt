@@ -4,3 +4,4 @@ pytesseract
 numpy
 pandas
 pillow
+cv2
